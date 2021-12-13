@@ -1,7 +1,7 @@
 # Домашнее задание №2
 ###### Котся Борисов БПИ197
 
-Условие: https://docs.google.com/document/d/1ub8NukjCybxUxT_gkNzbZjcr26xgljI3ovVcPkjaMaA
+Условие: https://docs.google.com/document/d/1ub8NukjCybxUxT_gkNzbZjcr26xgljI3ovVcPkjaMaA \
 Ссылка на Google colab: https://colab.research.google.com/drive/12hD6oTBSzuKNXCI22nTVaOudk7ddrXgw
 
 Статистика:
